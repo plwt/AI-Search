@@ -2,7 +2,7 @@
 	"manifest_version": 3,
     	"name": "AI Search",
 	"description": "Search using AI from Perplexity directly from Firefox.",
-	"version": "0.1",
+	"version": "0.2",
 	"browser_specific_settings":{
 		"gecko": {
 			"id": "{709b6363-311a-4571-9a1b-7fc6730aa6a7}",
