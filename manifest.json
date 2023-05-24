@@ -9,6 +9,12 @@
 			"strict_min_version": "102.0"
 		}
 	},
+	"background": {
+    		"scripts": [
+      			"wordsearch.js"
+    ]
+  },
+	
 	"icons": {
 		"32": "icon.png"
 	},
