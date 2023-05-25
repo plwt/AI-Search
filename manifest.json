@@ -35,5 +35,8 @@
 			"keyword": "@AI",
 			"search_url": "https://www.perplexity.ai/?q={searchTerms}"
 		}
+	},
+	"action": {
+		"default_icon": "icons/icon.png"
 	}
 }
