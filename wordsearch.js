@@ -7,7 +7,7 @@ function searchWithAI(info, tab) {
 }
 browser.contextMenus.create({
 	id: "search-with-AI",
-	title: "Search "%s" with Perplexity",
+	title: 'Search "%s" with Perplexity',
 	contexts: ["selection"],
 });
 browser.contextMenus.onClicked.addListener((info, tab) => {
