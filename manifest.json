@@ -15,7 +15,8 @@
 	},
 	"background": {
 		"scripts": [
-			"wordsearch.js"
+			"wordsearch.js",
+			"sidebar.js"
 		]
 	},
 	"icons": {
